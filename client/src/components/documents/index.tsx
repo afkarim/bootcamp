@@ -22,6 +22,7 @@ const Documents = () => {
       <GridItem>
         <Document />
       </GridItem>
+      <Text>test</Text>
     </Grid>
   );
 };
